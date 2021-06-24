@@ -31,13 +31,13 @@
     display: inline-block;
 }
 
-.news1 {
+.International {
     float: right;
     margin-right: -70%;
     margin-top: 12px;
 }
 
-.news1 button {
+.International button {
     height: 32px;
     line-height: 30px;
     padding: 0 10px;
@@ -47,7 +47,7 @@
     display: inline-block;
 }
 
-.ip {
+.search {
     float: left;
     margin-top: 17px;
     margin-left: 294px;
@@ -56,7 +56,7 @@
     padding-bottom: 5px;
 }
 
-.ips {
+.btnSearch {
     height: 32px;
     line-height: 32px;
     border-radius: 16px;
